@@ -1,6 +1,10 @@
 # bmi_calculator
 
 A new Flutter application.
+The App has two screens. 
+1. The first screen is where you input your details such as gender, height, weight and age.
+2. The other screen is where you get your results. 
+
 
 ## Getting Started
 
