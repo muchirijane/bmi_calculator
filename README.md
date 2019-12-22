@@ -5,6 +5,9 @@ The App has two screens.
 1. The first screen is where you input your details such as gender, height, weight and age.
 2. The other screen is where you get your results. 
 
+BMI Calculator fuctionality
+
+![Bmi](https://user-images.githubusercontent.com/54930887/71322927-2e848d80-24de-11ea-94a3-412f846d204b.gif)
 
 ## Getting Started
 
